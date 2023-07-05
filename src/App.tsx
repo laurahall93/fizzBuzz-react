@@ -10,8 +10,7 @@ function App(): JSX.Element {
       <PageBody />
       <PageFooter />
     </>
-
-  )
+  );
 }
 
 export default App;

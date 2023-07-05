@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "src/PageHeader.tsx", "src/PageFooter.tsx", "src/PageBody.tsx", "components/FooterEntry.tsx", "components/BlogEntry.tsx"  ]
 }

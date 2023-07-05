@@ -1,15 +1,10 @@
 
-import FooterEntry from "./FooterEntry"
-
 function PageFooter(): JSX.Element {
-    return (
-        <FooterEntry 
-        author="Laura Hall"
-        postDates={{month: "June", year : 2023}}
-        />
+    return(
+        <div>
+            <h2>By all</h2>
+        </div>
     )
 }
-
-
 
 export default PageFooter;
